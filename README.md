@@ -1,4 +1,4 @@
-# IS4310-RS485-Schematic-Design-Example-ISXMPL4310ex1
+# IS4310 RS485 Schematic Design Exemple
 
 This repository contains an example of how to implement an RS485 electrical interface for the **IS4310** Modbus RTU Slave chip.
 
